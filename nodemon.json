@@ -1,5 +1,5 @@
 {
   "watch": ["*.c"],
   "ext": "c",
-  "exec": "gcc ./exercio01/03.c -o saida && ./saida"
+  "exec": "gcc ./exercio01/12.c -o saida && ./saida"
 }

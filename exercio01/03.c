@@ -14,5 +14,7 @@ int exPotencia(int base,int expoente) {
   for(int i = 0; i < expoente; i++) {
     cal *= base;
   }
+
   return cal;
+  
 }
