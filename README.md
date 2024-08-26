@@ -1,5 +1,6 @@
-# Para criar o listen para o c usei nodemon
+# Para criar o hot-reload para o c usei nodemon
 
+execute:
 ``` bash 
-nodemon
+nodemon || npm i -g nodemon && nodemon
 ``` 
