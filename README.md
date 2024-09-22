@@ -21,3 +21,19 @@ fi
 # Inicia o nodemon
 nodemon
 ``` 
+
+### Topicos de estudo ponteiro e funcoes
+
+funcoes tem 4 logicas basicas:
+``` c
+//1:tipo 2:nome da funcao         3:parametros
+    char terminalLinuxSoUsarTexto(char apenasTexto) {
+        // 4:pode ter um retorno ou nao... tudo depende de como
+        // voce tipou o dado
+        return apenasTexto;
+    }
+```
+
+Ponteiro é uma variavel que contém um endereco de memória
+
+https://embarcados.com.br/wp-content/uploads/2015/12/Mem%C3%B3ria.png
