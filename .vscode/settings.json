@@ -1,5 +1,6 @@
 {
   "files.associations": {
-    "handlerlavajatoestatica.h": "c"
+    "handlerlavajatoestatica.h": "c",
+    "4.C": "cpp"
   }
 }
