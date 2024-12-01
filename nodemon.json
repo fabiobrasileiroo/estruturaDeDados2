@@ -1,5 +1,5 @@
 {
   "watch": ["*.c"],
   "ext": "c",
-  "exec": "gcc ./ponteiroRevisar/exercicios/4.c -o saida && ./saida"
+  "exec": "gcc ./pilhaDinamica/01.c -o saida && ./saida"
 }

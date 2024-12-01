@@ -1,6 +1,12 @@
 {
   "files.associations": {
     "handlerlavajatoestatica.h": "c",
-    "4.C": "cpp"
+    "4.C": "cpp",
+    "stdio.h": "c",
+    "array": "c",
+    "deque": "c",
+    "vector": "c",
+    "string_view": "c",
+    "ranges": "c"
   }
 }

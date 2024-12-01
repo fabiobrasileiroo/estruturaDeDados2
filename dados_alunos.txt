@@ -1,0 +1,10 @@
+Aluno[0] e seus respectivos dados:
+Nome: fabio
+Matrícula: 123
+Média: 5.50
+------------------------------------
+Aluno[1] e seus respectivos dados:
+Nome: sla
+Matrícula: 234
+Média: 9.50
+------------------------------------
